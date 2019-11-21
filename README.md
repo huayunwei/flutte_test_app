@@ -1,6 +1,6 @@
 # app
 
-A new Flutter project.
+用flutter重构一下我目前用来看动漫的app
 
 ## Getting Started
 
